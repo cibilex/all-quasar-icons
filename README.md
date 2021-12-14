@@ -1,4 +1,4 @@
-# Icons of Quasar components
+# All quasar icons
 
 Quasar components use these icons.Quasar use [material icons][material] as default.If you prefer to use another icon set for quasar components or want to download all icons for create a project like a pro(or both operation :blush: ).You must to download all Icons used by quasar components.After then use a module for convert to font like [fantasticon][fantasticon] .
 
